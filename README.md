@@ -1,32 +1,30 @@
-📊 SQL Sales Dashboard Project
-🎯 Objective
+# 📊 Sales Analytics Project (SQL + Python)
 
-Analyze Superstore sales data using SQL to uncover business insights related to sales, profit, customers, and product performance.
+Hey 👋  
+This is a small data analytics project I built while learning SQL and Python.
 
-🧰 Tools Used
-SQL (SQLite)
-Python (Pandas)
-VS Code
-📁 Project Structure
-sql-sales-dashboard/
-│
-├── dataset/        # Raw sales data (CSV)
-├── queries/        # SQL analysis queries
-├── visuals/        # (optional dashboards)
-├── sales.db        # SQLite database
-├── README.md       # Project documentation
-└── findings.txt    # Business insights report
-📊 Key Analysis Performed
-Total Sales, Profit, Orders
-Monthly Sales Trend
-Customer Analysis
-Product Performance
-Regional Profitability
-📈 Key Insights
-Sales vary significantly across months
-A small group of customers contributes major revenue
-Some regions are more profitable than others
-Certain product categories dominate sales
-🎯 Conclusion
+I wanted to understand how real businesses look at their sales data and how insights are extracted from raw numbers. So I used a Superstore dataset and tried to analyze it like a real-world business case.
 
-This project demonstrates SQL-based business analytics skills used in real-world data analysis roles.
+---
+
+## 🎯 What I tried to do here
+
+Instead of just writing SQL queries, I focused on answering actual business questions like:
+
+- How is the overall sales and profit performing?
+- Are sales growing over time or not?
+- Who are the most valuable customers?
+- Which products and categories are performing well?
+- Which regions are doing better than others?
+
+---
+
+## 🧰 Tools I used
+
+- SQL (SQLite)
+- Python (Pandas)
+- VS Code
+
+---
+
+## 📁 Project setup
